@@ -1,2 +1,2 @@
-# tailwind-landing-page
- 
+# tailwind-basics
+ Tailwind CSS basics
